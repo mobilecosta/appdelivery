@@ -38,3 +38,7 @@ Detalhamento:
 5) Cadastro do Entregador
    a) Inicia o pedido aceitando
    b) Finaliza informando a forma de pagto
+   
+Tecnicas
+1) https://github.com/sagiegurari/angular-web-notification
+2) 
