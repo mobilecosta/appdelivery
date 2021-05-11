@@ -28,3 +28,13 @@ Relatorio com dados do entregador/entrega, como: Endereço, Dia, Hora, KM, Valor
 Cobra do Estabelecimento taxa de utilização do APP parametrizável conforme contrato
 	Taxa 120 reais mensais ou 60 quinzenal ou 30 semanal (exemplo)
 	Taxa por entrega até 3 km 5 reais + 20%  a partir de 3 km cobra mais 1,25 por km rodado + 20%
+
+Detalhamento:
+1) Cadastro dos clientes
+2) Cadastro dos Produtos
+3) Cadastro do Pedido
+4) Cadastros dos Estabelecimentos
+   a) Deixar estabelecimento on-line
+5) Cadastro do Entregador
+   a) Inicia o pedido aceitando
+   b) Finaliza informando a forma de pagto
